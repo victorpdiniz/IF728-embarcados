@@ -1,6 +1,6 @@
-# Engenharia de Sistemas Embutidos - IF738
+# Engenharia de Sistemas Embutidos - IF728
 
-Este repositório contém os projetos desenvolvidos durante a disciplina de **Engenharia de Sistemas Embutidos (IF738)** do curso de Engenharia da Computação. Os códigos são escritos em **linguagem C**, utilizando a biblioteca **REGF51.h** para controle de hardware, e simulados por meio do ambiente de desenvolvimento **Keil uVision**, amplamente utilizado para sistemas baseados no microcontrolador 8051.
+Este repositório contém os projetos desenvolvidos durante a disciplina de **Engenharia de Sistemas Embutidos (IF728)** do curso de Engenharia da Computação. Os códigos são escritos em **linguagem C**, utilizando a biblioteca **REGF51.h** para controle de hardware, e simulados por meio do ambiente de desenvolvimento **Keil uVision**, amplamente utilizado para sistemas baseados no microcontrolador 8051.
 
 ## Objetivo da Disciplina
 
@@ -14,7 +14,7 @@ A disciplina visa apresentar os fundamentos dos sistemas embarcados, abordando d
 
 ## Estrutura do Repositório
 ```
-embedded-systems-if738/
+IF728-embarcados/
 ├── projetos/
 │ ├── projeto1-introducao/
 │ │ ├── main.c
@@ -29,9 +29,7 @@ embedded-systems-if738/
 │ │ ├── projeto3.uvproj
 │ │
 │ └── projeto4-serial/
-│ ├── main.cCorrection
-Correction
-Correction
+│ ├── main.c
 │ ├── projeto4.uvproj
 │
 └── README.md
